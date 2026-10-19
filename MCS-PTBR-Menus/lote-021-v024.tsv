@@ -1,0 +1,42 @@
+传闻描述	Descrição
+事件状态:	Estado do evento:
+委托	Encomendas
+兄弟，我被父亲关了禁闭，没办法与你一起观看英杰会的比试了，日后若是有事可用传音符联系。	Irmão, meu pai me prendeu em confinamento e não vou poder assistir às lutas do Encontro dos Heróis com você. Se precisar de algo, é só me chamar pelo talismã de transmissão.
+任务界面能显示所有正在进行中的剧情任务。	A tela de missões mostra todas as missões da história em andamento.
+可以看到任务有剩余时间，若超过了剩余时间，那么任务便会过期。	As missões têm tempo restante; se esse tempo acabar, a missão expira.
+过期和已完成的任务可以在旧时处查看。	As missões expiradas e concluídas podem ser vistas no histórico.
+传闻界面显示了所有获取的消息和情报。	A tela de rumores mostra todas as notícias e informações obtidas.
+对于会重复的事件，传闻中会显示下次举行的事件。	Para eventos que se repetem, os rumores mostram quando será o próximo.
+而对于不会重复的情报，在超过剩余事件后便会消失。	Já as informações que não se repetem somem quando o tempo restante acaba.
+委托界面显示了所有你接受后正在进行的委托任务。	A tela de encomendas mostra todas as encomendas que você aceitou e estão em andamento.
+游戏中，你可以从各种势力处接受到一些委托任务，完成这些委托任务可以获得比较稳定的奖励。	No jogo, várias facções oferecem encomendas; concluí-las dá recompensas relativamente estáveis.
+附近的人会显示在左侧的任务列表中。	As pessoas por perto aparecem na lista de missões à esquerda.
+当附近的人有待接取的任务时，会在头像右侧出现任务图标。	Quando alguém por perto tem uma missão disponível, um ícone de missão aparece ao lado do retrato.
+此时与之交谈便可接取任务。	Basta conversar com a pessoa para aceitar a missão.
+你可以选择准备花在采集上的时间和选择重点寻找的材料。	Você pode escolher quanto tempo dedicar à coleta e quais materiais procurar com prioridade.
+采集消耗的时间越多，获得的材料也会越多，而点击选择重点寻找的材料可以大幅提升这次采集中获得这种材料的概率。	Quanto mais tempo gastar coletando, mais materiais obterá; e ao clicar para escolher um material prioritário, a chance de obtê-lo nesta coleta aumenta muito.
+随着你境界的提升，采集的效率也会随之提高。	Conforme seu reino sobe, a eficiência da coleta também aumenta.
+突破筑基时，你将进入入定的状态。	Ao romper para a Fundação, você entra em estado de meditação profunda.
+在九回合内不断压缩体内灵气，直到灵气压缩值达到100，即可成功突破。	Comprima continuamente o qi do corpo em até nove turnos; quando o valor de compressão chegar a 100, o rompimento terá sucesso.
+使用单次消耗灵气牌更多的方式压缩灵气时，效率最高。	A compressão é mais eficiente quando você usa cartas que gastam mais qi de uma só vez.
+伐经洗髓	Purificação de Meridianos e Medula
+突破成功后，多余的灵气将被经脉吸收，并额外提升你的最大生命值。	Após o rompimento, o qi excedente é absorvido pelos meridianos e aumenta ainda mais a sua vida máxima.
+每超过1点，将额外提升两点最大生命值。	A cada 1 ponto acima, a vida máxima aumenta em mais 2 pontos.
+突破失败	Falha no Rompimento
+若突破失败，不会有性命之忧，但修为将倒退1000点。	Se o rompimento falhar, sua vida não corre perigo, mas o cultivo recua 1000 pontos.
+在九回合内完成【三花聚顶】，【五气朝元】，并在【凝液成丹】阶段至少凝聚一次五行源灵气，即可成功突破。	Conclua 【Três Flores no Topo】 e 【Cinco Qi ao Elemento】 em até nove turnos e condense qi de origem dos cinco elementos ao menos uma vez na fase de 【Condensar Líquido em Núcleo】 para romper com sucesso.
+所有辅助突破的丹药需在结丹开始前突破，过早服用将失效。	As pílulas de auxílio ao rompimento devem ser tomadas antes de a formação do núcleo começar; tomadas cedo demais, perdem o efeito.
+丹分九品	Núcleo em Nove Graus
+在【凝液成丹】阶段，凝聚的五行源灵气越多，金丹品阶越高，五行灵气的属性比例也将影响最终成丹的属性。	Na fase de 【Condensar Líquido em Núcleo】, quanto mais qi de origem dos cinco elementos você condensar, maior o grau do Núcleo Dourado; a proporção entre os elementos também influencia os atributos do núcleo final.
+金丹的品阶越高，提升的修炼速度与属性也越高。	Quanto maior o grau do Núcleo Dourado, maiores os ganhos de velocidade de cultivo e de atributos.
+若结成八品或九品金丹，还将额外提升战斗时的初始灵气牌数量。	Se formar um núcleo de 8º ou 9º grau, também aumenta a quantidade inicial de cartas de qi em batalha.
+除“丹”“器”之外，至少一条大道的感悟达到大道已成时，方可突破化神。	Só é possível romper para a Transformação Espiritual quando ao menos um Grande Dao, exceto “Alquimia” e “Artefatos”, chegar ao estado de Grande Dao Completo.
+选择不同的大道，突破后可开启不同效果的化神领域，也会在突破时获得不同的增益效果。	Cada Grande Dao escolhido libera, após o rompimento, um domínio de Transformação Espiritual diferente, e também dá bônus diferentes no momento do rompimento.
+【凡性】每回合将自动提升，且提升速度随回合数递增。	【Natureza mortal】 aumenta automaticamente a cada turno, e o ritmo cresce com o número de turnos.
+【仙胎】状态下，每回合结束时【仙性】+4。	No estado de 【Embrião imortal】, ao fim de cada turno, 【Natureza imortal】 +4.
+【凡体】状态下，每回合结束时【凡性】+4	No estado de 【Corpo mortal】, ao fim de cada turno, 【Natureza mortal】 +4
+化神时，若【凡性】达到100，则化神失败，修为大损。	Na transformação, se 【Natureza mortal】 chegar a 100, ela falha e o cultivo sofre grande perda.
+反之，若在此之前【仙性】达到100，则化神成功。	Por outro lado, se 【Natureza imortal】 chegar a 100 antes disso, a transformação tem sucesso.
+但处于此状态下时将跳过吸收灵气阶段。	Mas, neste estado, a fase de absorção de qi é ignorada.
+人阶修炼类功法，也是最初阶的入门功法，身具灵根者修习此功法后，即可开始通过吐纳吸收天地灵气，此为炼气。	Técnica de cultivo de grau Humano e também a mais básica de todas: quem tem raiz espiritual e a pratica já pode absorver o qi do céu e da terra pela respiração, o que se chama Refino de Qi.
+妖丹	Núcleo Demoníaco

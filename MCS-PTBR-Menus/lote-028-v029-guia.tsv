@@ -1,0 +1,66 @@
+年龄和寿元：寿元表示了人物所能达到的年龄上限	Idade e Longevidade: a Longevidade indica a idade máxima que o personagem pode alcançar.
+资质：决定修练的速度，资质越高，基础修炼速度受到的加成越高	Aptidão: define a velocidade de cultivo; quanto maior a Aptidão, maior o bônus na velocidade básica de cultivo.
+悟性：决定闭关时感悟思绪、领悟新神通功法、突破功法时的效率	Intuição: define a eficiência ao captar pensamentos em reclusão, compreender novas habilidades e técnicas e romper técnicas.
+神识：除了会对战斗产生影响外，还会在各种需要判定神识的地方产生作用。	Sentido espiritual: além de influenciar o combate, também age em vários lugares que exigem teste de Sentido espiritual.
+遁速：决定人物的移动速度，战斗时的先手和战斗时能否成功逃跑	Velocidade: define a velocidade de movimento do personagem, quem age primeiro na batalha e se a fuga tem sucesso.
+修炼速度：人物当前每月被动积攒的修为值，这个数值由人物的资质和主修功法决定	Velocidade de cultivo: o cultivo que o personagem acumula passivamente por mês; depende da Aptidão e da técnica principal.
+心境影响闭关修炼的效率。境界越高，对心境的要求也越高。	O Estado mental afeta a eficiência do cultivo em reclusão. Quanto mais alto o reino, maior a exigência de Estado mental.
+心境影响闭关修炼的效率。	O Estado mental afeta a eficiência do cultivo em reclusão.
+境界越高，对心境的要求也越高。	Quanto mais alto o reino, maior a exigência de Estado mental.
+当心境等级不满足当前境界要求时，闭关修炼的效率将降低50%。	Se o nível de Estado mental não atender ao requisito do reino atual, a eficiência do cultivo em reclusão cai 50%.
+若心境等级超过当前境界的要求时，闭关修炼的效率将提升20%。	Se o nível de Estado mental superar o requisito do reino atual, a eficiência do cultivo em reclusão sobe 20%.
+服用丹药时会积累丹毒，丹毒过高则会导致一系列的负面状态，甚至死亡。	Tomar pílulas acumula Toxicidade; se ficar alta demais, causa vários estados negativos e até a morte.
+当丹毒小于20时，身体健康：现在的你身体健康，即使一丝丝细微的丹毒存在，对你也不会有什么影响，此时丹毒每年自行减少2点。	Toxicidade abaixo de 20, Corpo saudável: seu corpo está saudável; mesmo com um mínimo de toxina, não há efeito. A Toxicidade diminui 2 por ano por conta própria.
+当丹毒大于20时，身体无碍：些许丹毒，并无大碍。此时丹毒每年自行减少2点。	Toxicidade acima de 20, Sem problemas: há um pouco de toxina, mas nada grave. A Toxicidade diminui 2 por ano por conta própria.
+当丹毒大于20时，身体无碍：些许丹毒，并无大碍。	Toxicidade acima de 20, Sem problemas: há um pouco de toxina, mas nada grave.
+此时丹毒每年自行减少2点。	A Toxicidade diminui 2 por ano por conta própria.
+当丹毒大于50时，稍有不适：丹毒入体，对体内灵气的运转产生了略微的影响。每回合抽牌数-1，此时丹毒每年自行减少1点。	Toxicidade acima de 50, Leve mal-estar: a toxina atrapalha levemente a circulação de Qi no corpo. Compra 1 carta a menos por turno. A Toxicidade diminui 1 por ano por conta própria.
+当丹毒大于50时，稍有不适：丹毒入体，对体内灵气的运转产生了略微的影响。	Toxicidade acima de 50, Leve mal-estar: a toxina atrapalha levemente a circulação de Qi no corpo.
+每回合抽牌数-1，此时丹毒每年自行减少1点。	Compra 1 carta a menos por turno. A Toxicidade diminui 1 por ano por conta própria.
+当丹毒大于70时，筋脉凝滞：丹毒侵染了你的筋脉，体内灵气的运转开始凝滞。每回合抽牌数-2，此时丹毒将不会自行减少。	Toxicidade acima de 70, Meridianos travados: a toxina contaminou seus meridianos e o Qi começa a estagnar. Compra 2 cartas a menos por turno. A Toxicidade não diminui por conta própria.
+当丹毒大于70时，筋脉凝滞：丹毒侵染了你的筋脉，体内灵气的运转开始凝滞。	Toxicidade acima de 70, Meridianos travados: a toxina contaminou seus meridianos e o Qi começa a estagnar.
+每回合抽牌数-2，此时丹毒将不会自行减少。	Compra 2 cartas a menos por turno. A Toxicidade não diminui por conta própria.
+当丹毒大于100时，病入膏肓：毒入五脏，运气行脉不能自如，每回合抽牌数-2，每次施放法术有50%的几率失败，并失去30点生命值。此时丹毒将不会自行减少。	Toxicidade acima de 100, Doença incurável: a toxina chega aos órgãos e o Qi não circula livremente. Compra 2 cartas a menos por turno; cada técnica lançada tem 50% de chance de falhar e você perde 30 de vida. A Toxicidade não diminui por conta própria.
+当丹毒大于100时，病入膏肓：毒入五脏，运气行脉不能自如，每回合抽牌数-2，每次施放法术有50%的几率失败，并失去30点生命值。	Toxicidade acima de 100, Doença incurável: a toxina chega aos órgãos e o Qi não circula livremente. Compra 2 cartas a menos por turno; cada técnica lançada tem 50% de chance de falhar e você perde 30 de vida.
+此时丹毒将不会自行减少。	A Toxicidade não diminui por conta própria.
+当丹毒等于120时，毒发身亡：无药可救，毒发身亡。	Toxicidade igual a 120, Morte por envenenamento: sem cura, você morre envenenado.
+每当大境界突破时，丹毒将重新归0。	Sempre que romper um grande reino, a Toxicidade volta a 0.
+灵感是论道时的重要状态，论道时会根据你的灵感状态消耗灵感，并对论道结果进行加成，灵感的积累速度为每个月增加1点，每次小境界突破增加50点，每次大境界突破增加100点。灵感的上限由心境决定，心境越高，灵感的上限越高。	A Inspiração é um estado importante ao debater o Dao: o debate consome Inspiração e ela dá bônus ao resultado. Ela acumula 1 ponto por mês, +50 a cada pequeno reino rompido e +100 a cada grande reino. O limite de Inspiração depende do Estado mental: quanto maior o Estado mental, maior o limite.
+灵感是论道时的重要状态，论道时会根据你的灵感状态消耗灵感，并对论道结果进行加成，灵感的积累速度为每个月增加1点，每次小境界突破增加50点，每次大境界突破增加100点。	A Inspiração é um estado importante ao debater o Dao: o debate consome Inspiração e ela dá bônus ao resultado. Ela acumula 1 ponto por mês, +50 a cada pequeno reino rompido e +100 a cada grande reino.
+灵感的上限由心境决定，心境越高，灵感的上限越高。	O limite de Inspiração depende do Estado mental: quanto maior o Estado mental, maior o limite.
+显示了金木水火土灵根的数值，灵根会影响获得灵气牌的概率。	Mostra os valores das raízes espirituais de Metal, Madeira, Água, Fogo e Terra. As raízes afetam a chance de obter cartas de Qi.
+获得单一属性灵气牌的概率为此属性灵根的数值除以所有属性灵根数值之和。	A chance de obter uma carta de Qi de um elemento é o valor da raiz desse elemento dividido pela soma de todas as raízes.
+修为会随着时间缓慢增长，当前境界的修为积攒满后，便可以突破一个小境界，但是大境界的突破就需要经历一个特殊关卡。	O cultivo cresce devagar com o tempo. Ao encher o cultivo do reino atual, é possível romper um pequeno reino; já romper um grande reino exige passar por uma provação especial.
+大境界分为炼气、筑基、金丹、元婴、化神。而每个大境界又分为了前中后期三个小境界。	Os grandes reinos são Refino de Qi, Fundação, Núcleo Dourado, Alma Nascente e Transformação Divina. Cada um se divide em três pequenos reinos: inicial, médio e final.
+大境界分为炼气、筑基、金丹、元婴、化神。	Os grandes reinos são Refino de Qi, Fundação, Núcleo Dourado, Alma Nascente e Transformação Divina.
+而每个大境界又分为了前中后期三个小境界。	Cada um se divide em três pequenos reinos: inicial, médio e final.
+在境界到达金丹后，可以将鼠标移至丹田金丹处查看金丹属性。	Após alcançar o Núcleo Dourado, passe o mouse sobre o Núcleo no dantian para ver seus atributos.
+声望界面展示了你在不同地域的声望数值。	A tela de Reputação mostra sua reputação em cada região.
+声望通常可以通过完成当地重要事件和完成当地势力的任务提高。	A Reputação costuma subir ao concluir eventos importantes locais e missões das forças da região.
+声望的数值会影响你的声望状态。	O valor da Reputação define seu estado de reputação.
+声望小于-500时：臭名昭著	Reputação abaixo de -500: Infame
+声望小于-50时：声名狼藉	Reputação abaixo de -50: Má fama
+声望小于-10时：名声败坏	Reputação abaixo de -10: Nome manchado
+声望大于-10时：默默无闻	Reputação acima de -10: Desconhecido
+声望大于50时：略有薄名	Reputação acima de 50: Algum renome
+声望大于500时：声名远扬	Reputação acima de 500: Fama espalhada
+声望大于1000时：誉满天下	Reputação acima de 1000: Glória em todo o mundo
+而不同的声望状态也会影响不同地域对你进行的行为，将鼠标移动到对应声望状态可以查看对应状态下的效果。	Cada estado de reputação também muda como as regiões agem com você; passe o mouse sobre o estado para ver seus efeitos.
+悬赏	Recompensa
+0悬赏	0 Recompensa
+当你在某个地域的声望低于声名狼藉时，相应地域便会对你发出悬赏，声望越低赏金越高。	Quando sua Reputação em uma região cai abaixo de Má fama, essa região põe sua cabeça a prêmio; quanto menor a Reputação, maior a recompensa.
+此时，风雨阁会依次派出各个境界的杀手前来追杀你，赏金越高，越容易吸引到更强的杀手。	Então o Pavilhão Vento e Chuva envia assassinos de cada reino, em ordem, para caçar você; quanto maior a recompensa, mais fácil atrair assassinos mais fortes.
+若是风雨阁认为追杀你的代价远高于赏金，他们也会偃旗息鼓，不再尝试完成悬赏。	Se o Pavilhão Vento e Chuva achar que o custo de caçar você supera muito a recompensa, ele desiste e deixa de tentar receber a recompensa.
+吸收灵气阶段，吸收灵气数-1	Na fase de absorção, absorve 1 de Qi a menos
+指示物-影，暗影重重。	Marcador: Sombra, sombras por toda parte.
+高阶的神通与功法，往往需要对大道有一定的感悟方可领悟。	Habilidades e técnicas de grau alto costumam exigir certo insight do Grande Dao para serem compreendidas.
+领悟时间受悟性与相关大道感悟的影响，悟性越高，或是对相关大道感悟越深，领悟所需的时间越短。	O tempo de compreensão depende da Intuição e do insight do Dao relacionado; quanto maior a Intuição ou mais profundo o insight, menor o tempo necessário.
+战斗成功会概率获得此人的背包物品，并降低大量当地的声望。	Vencer a batalha pode render itens da mochila da pessoa, mas reduz muito a Reputação local.
+耐药性	Tolerância
+0耐药性	0 Tolerância
+每次服用丹药都将提升对此丹药的耐药性。耐药性达到上限后，便无法再服用此丹药了。	Cada pílula tomada aumenta a Tolerância a ela. Ao atingir o limite, não é mais possível tomar essa pílula.
+每次服用丹药都将提升对此丹药的耐药性。	Cada pílula tomada aumenta a Tolerância a ela.
+耐药性达到上限后，便无法再服用此丹药了。	Ao atingir o limite de Tolerância, não é mais possível tomar essa pílula.
+丹毒是服用丹药后残留在体内的毒素，会在体内不断累积。达到一定程度后，会产生不同程度的副作用。	A Toxicidade é a toxina que as pílulas deixam no corpo e se acumula sem parar. Ao passar de certo nível, causa efeitos colaterais de vários graus.
+丹毒是服用丹药后残留在体内的毒素，会在体内不断累积。	A Toxicidade é a toxina que as pílulas deixam no corpo e se acumula sem parar.
+达到一定程度后，会产生不同程度的副作用。	Ao passar de certo nível, causa efeitos colaterais de vários graus.

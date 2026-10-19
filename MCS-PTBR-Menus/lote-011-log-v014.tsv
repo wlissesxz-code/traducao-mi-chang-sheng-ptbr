@@ -1,0 +1,78 @@
+<hy t=返回 fhc=#1E494B ul=1>	<hy t=Voltar fhc=#1E494B ul=1>
+单击{color=#d0380a}战前准备{/color} 可以调整装备、服用丹药、更改功法与神通的搭配。	Clique em {color=#d0380a}Preparar combate{/color} para ajustar equipamentos, tomar pílulas e trocar a combinação de técnicas e habilidades.
+#c42e395【后继无力】#n每回合只能使用一次	#c42e395【Exaustão】#nSó pode ser usado uma vez por turno
+#c42e395【连击】#n若上一个使用的是X系技能，则触发后续特效	#c42e395【Combo】#nSe a última habilidade usada foi do elemento X, ativa o efeito seguinte
+丹炉的品阶越高，所能放入的草药数量也就越多。	Quanto maior o grau do caldeirão, mais ervas cabem nele.
+仙术	Arte imortal
+共选择四个灵根	Escolha quatro raízes espirituais no total
+凝血草	Erva Coagulante
+嗯？那草里盘着的是...好大的一条蟒蛇！	Hum? O que está enrolado naquele mato é... uma jiboia enorme!
+天青花	Flor Azul-Celeste
+妖兽	Fera espiritual
+存档完成	Jogo salvo
+宁心草	Erva Acalma-Coração
+宁神花	Flor Acalma-Espírito
+心境影响闭关修炼的效率，境界越高，对心境的要求也越高。	O estado mental afeta a eficiência do cultivo em recolhimento; quanto maior o reino, maior a exigência de estado mental.
+恒心草	Erva da Perseverança
+战斗中，遁速更快的一方便可以抢先一步出手。	Em combate, quem tem mais velocidade age primeiro.
+打造之时加入了稀有的火铜矿石作为材料，剑身炙热，注入灵力后可达数百度的高温。	Forjada com o raro minério de cobre de fogo, a lâmina é ardente: com poder espiritual, chega a centenas de graus.
+流莹草	Erva Vaga-lume
+炎浮梦	Sonho Flutuante da Chama
+矿物	Minérios
+确定要删除此存档吗?	Tem certeza de que quer apagar este save?
+神识越高，在海上可见的视野范围也越大。	Quanto maior o Sentido espiritual, maior o campo de visão no mar.
+秘术	Artes secretas
+腰缠万贯或携带贵重物品时可能遭人拦路截杀，除了赚取灵石还要记得提升自身能力。	Quem anda rico ou com itens valiosos pode ser emboscado: além de juntar pedras espirituais, lembre-se de ficar mais forte.
+金虹神剑	Espada Divina do Arco-íris Dourado
+金虹驻地	Base do Arco-íris Dourado
+银月花	Flor da Lua Prateada
+巨蟒	Jiboia Gigante
+星辰泪	Lágrimas das Estrelas
+该战斗类型无法跳过	Este tipo de batalha não pode ser pulado
+跳过战斗	Pular combate
+不满足释放条件	Condições de uso não atendidas
+你战胜了这头妖兽。现在，它的妖丹归你了。	Você derrotou esta fera. Agora o núcleo demoníaco dela é seu.
+可惜这巨蟒修行未满，尚未结成{color=#d0380a}妖丹{/color}。否则这妖兽的妖丹，也是相当好的炼丹材料。	Pena que esta jiboia ainda não completou o cultivo e não formou um {color=#d0380a}núcleo demoníaco{/color}. Senão, o núcleo dela seria um ótimo material de alquimia.
+嗯，能长到这般体型，就算还未结成妖丹，也不是普通凡人能对付的了的。我观这巨蟒应该与你修为相当，拿来给你练手倒是刚好合适。	Hum, para crescer tanto assim, mesmo sem núcleo demoníaco, não é algo que um mortal comum enfrente. Pelo que vejo, esta jiboia tem um cultivo parecido com o seu; é perfeita para você treinar.
+四处游历时会遇见一些正需帮助的修士，举手之劳可以让你多结识些朋友。	Viajando, você encontrará cultivadores precisando de ajuda; uma pequena ajuda pode render novos amigos.
+妖兽特殊器官，可用于炼器，灵性最强、坚固次之，但操控为零。	Órgão especial de fera, usado na forja: espiritualidade altíssima, firmeza em segundo, mas controle zero.
+妖兽的鳞甲，可用于炼器，亲和最强、操控次之，但韧性为零。	Escamas de fera, usadas na forja: afinidade altíssima, controle em segundo, mas tenacidade zero.
+妖兽皮，可用于炼器，亲和最强、操控次之，但韧性为零。	Pele de fera, usada na forja: afinidade altíssima, controle em segundo, mas tenacidade zero.
+害，这大蟒蛇看着吓人，其实也不过如此。	Ah, essa jiboia parecia assustadora, mas no fim nem era grande coisa.
+巨蟒牙	Presa de Jiboia Gigante
+巨蟒皮	Pele de Jiboia Gigante
+巨蟒眼	Olho de Jiboia Gigante
+巨蟒胆	Vesícula de Jiboia Gigante
+巨蟒骨	Osso de Jiboia Gigante
+巨蟒鳞	Escama de Jiboia Gigante
+二品	2º grau
+拍卖会上往往能买到一些市面上买不到或不常见的物品。	Nos leilões dá para comprar itens raros que não se acham no mercado.
+整理一下装备，好好回忆回忆老夫之前教的神通法诀，实战无儿戏，做好万全准备，{xiaozi}当心点！	Ajeite seu equipamento e relembre as habilidades e artes que este velho ensinou. Combate de verdade não é brincadeira; prepare-se bem, {xiaozi}, e tome cuidado!
+水属性材料，可用于炼器。	Material do elemento água, usado na forja.
+灵根的权重比例，决定了你在战斗中吸收到各系灵气的几率。	O peso de cada raiz espiritual define a chance de absorver Qi de cada elemento em combate.
+炼丹并不一定要和丹方所述完全相同，但替换药材后仍需记得保持药性寒热均衡。	A alquimia não precisa seguir a receita à risca, mas ao trocar ervas mantenha o equilíbrio entre frio e calor.
+遁速越快，在地图上移动所消耗的时长也越短。	Quanto maior a velocidade, menos tempo se gasta andando pelo mapa.
+闭关的同时也可以恢复你的伤势，但每次闭关至少耗时一个月。	O recolhimento também cura seus ferimentos, mas cada recolhimento leva pelo menos um mês.
+物品六个字字	Item de seis letras
+一品	1º grau
+宁心草	Erva Acalma-Coração
+不少神通和功法有领悟的条件，需要对应类型的悟道等级达到标准才能领悟。	Muitas habilidades e técnicas têm requisitos: é preciso atingir o nível de iluminação do tipo correspondente para compreendê-las.
+以多欺少可不是正道所为，道友，我来助你！	Atacar em bando não é coisa de quem segue o caminho justo. Companheiro taoista, eu ajudo você!
+你击败了你的对手。现在，他的储物袋归你了。	Você derrotou seu oponente. Agora a bolsa de armazenamento dele é sua.
+共选择一个灵根	Escolha uma raiz espiritual no total
+共选择两个灵根	Escolha duas raízes espirituais no total
+共选择三个灵根	Escolha três raízes espirituais no total
+共选择五个灵根	Escolha cinco raízes espirituais no total
+准备闭关前注意任务和委托的期限，以免委托失效降低声望。	Antes do recolhimento, confira os prazos das missões e encomendas, para não perder encomendas e reputação.
+出海航行非常耗时，海图上的一小段距离可能会耗费数月，为此要多多提升遁速。	Navegar leva muito tempo: um trecho curto no mapa marítimo pode levar meses, então aumente sua velocidade.
+功法与神通从低到高分为人阶、地阶、天阶三个品阶，每个品阶中又分为下中上三等。	Técnicas e habilidades se dividem em três graus, do menor ao maior: Homem, Terra e Céu; cada grau tem os níveis inferior, médio e superior.
+双方见招拆招，有来有回，精彩异常，第一次亲眼看到修仙者斗法的你不禁感到大开眼界。	Os dois trocam golpes e defesas num vaivém espetacular. É a primeira vez que você vê cultivadores lutando, e fica de olhos arregalados.
+妖兽的牙，可用于炼器，操控最强、灵性次之，但亲和为零。	Presa de fera, usada na forja: controle altíssimo, espiritualidade em segundo, mas afinidade zero.
+定睛观瞧，只见那剑修招招娴熟凌厉，闪转腾挪下，二人以夹击之势竟也一时难以近身。	Olhando com atenção, você vê que cada golpe do cultivador de espada é preciso e afiado; esquivando e girando, ele impede que os dois, mesmo atacando juntos, cheguem perto.
+小心，炼丹时若丹炉耐久耗尽可是会炸炉的！	Cuidado: se a durabilidade do caldeirão acabar durante a alquimia, ele explode!
+常以莲	Chang Yilian
+有点意思，这小子的御剑之术倒是可圈可点，别看那二人气焰汹汹，不过只是徒有声势罢了，只可惜灵气难以为继，怕是双拳难敌四手.....	Interessante, a espada voadora desse rapaz é digna de nota. Aqueles dois parecem ferozes, mas é só barulho. Pena que o Qi dele está acabando; duas mãos contra quatro não vão durar muito...
+林子前方，只见一个年少俊朗剑修正与凶神恶煞的二人缠斗在一起。那剑修且战且退，二人则穷追不舍，步步紧逼。	À frente, no bosque, um jovem e belo cultivador de espada luta contra dois sujeitos ameaçadores. Ele recua enquanto luta, e os dois o perseguem sem trégua, cada vez mais perto.
+若炼制的丹药品阶高于丹炉的品阶，通常将额外消耗大量丹炉耐久。	Se a pílula tiver grau maior que o do caldeirão, ela costuma gastar muita durabilidade extra do caldeirão.
+草药，可用于炼制丹药	Erva medicinal, usada para fazer pílulas
+那边的{xiongdi}！快救救我！只要救了我，我武陵城倪家必有重谢！	Ei, {xiongdi}, aí! Me salve, rápido! Se me salvar, a Família Ni de Wuling vai recompensá-lo muito bem!
