@@ -15,15 +15,19 @@ Tradução não oficial para português do Brasil do jogo **觅长生**, feita c
 A tradução é um trabalho em andamento. Ainda existem trechos em chinês e textos que não cabem nas caixas; veja "Reportar problemas" abaixo.
 
 ## Instalação
-Este plugin é independente: **não precisa do mod de tradução em inglês** (EN Translation). Só precisa do mod de base que carrega plugins BepInEx no jogo, na Oficina Steam: [item 2824349934](https://steamcommunity.com/sharedfiles/filedetails/?id=2824349934) (assine-o).
+Este plugin é independente: **não precisa do mod de tradução em inglês** (EN Translation). Só precisa do mod de base que carrega plugins BepInEx no jogo, na Oficina Steam: [item 2824349934](https://steamcommunity.com/sharedfiles/filedetails/?id=2824349934) (assine-o e abra o jogo uma vez).
 
-1. Assine o mod de base acima e abra o jogo uma vez, para a pasta ser criada.
-2. Baixe a versão em **Releases** (ou o repositório, em **Code → Download ZIP**).
-3. Copie a pasta `MCS-PTBR-Menus` para dentro de `...\steamapps\workshop\content\1189490\2824349934\BepInEx\plugins\`.
-4. Se estiver com o mod de tradução em inglês ativo, **desative-o**, porque ele traduz os mesmos textos e conflita com este plugin.
-5. Abra o jogo. No arquivo `BepInEx\LogOutput.log` (na mesma pasta do passo 3, um nível acima de `plugins`) deve aparecer a linha `PT-BR ativo: ... entradas`.
+### Instalação automática (Windows, recomendada)
+1. Baixe `MCS-PTBR-Menus-v0.40.zip` em **Releases** e **extraia tudo** (não rode de dentro do zip).
+2. Feche o jogo e dê dois cliques em **`INSTALAR.bat`**.
+3. O instalador procura sozinho a pasta do mod de base nas suas bibliotecas do Steam, copia a tradução e avisa se o mod em inglês estiver assinado. Se não achar a pasta, ele pede o caminho.
+4. Se estiver com o mod de tradução em inglês ativo, **desative-o** (ele conflita com este plugin).
+5. Abra o jogo. No `BepInEx\LogOutput.log` deve aparecer `PT-BR ativo: ... entradas`.
 
-Para desinstalar, apague a pasta `MCS-PTBR-Menus`.
+Para desinstalar, dê dois cliques em **`DESINSTALAR.bat`**.
+
+### Instalação manual
+Copie a pasta `MCS-PTBR-Menus` para `...\steamapps\workshop\content\1189490\2824349934\BepInEx\plugins\`. Para desinstalar, apague essa pasta.
 
 ## Reportar problemas
 Abra uma *issue* e anexe:
