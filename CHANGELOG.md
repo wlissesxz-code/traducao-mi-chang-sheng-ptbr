@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.5
+Versão completa: reúne tudo das versões 0.41 a 0.68 (veja abaixo) em um único instalador. Substitui a v0.40; basta rodar o `INSTALAR.bat` de novo.
+
 ## 0.68
 - Busca do Guia/Enciclopédia em português: ignora acentos e maiúsculas; com várias palavras (ex.: "redoma dourada") todas precisam aparecer; espaço no fim não quebra mais a busca.
 
