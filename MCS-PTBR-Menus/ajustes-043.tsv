@@ -1,0 +1,100 @@
+辅	Aux.
+二比三比一	2:3:1
+一	Um
+三	Três
+五	Cinco
+天	dias
+民宿	Pousada
+学堂	Escola
+杂货铺	Mercearia
+水井	Poço
+药坊	Botica
+菜地	Horta
+饭馆	Restaurante
+剑之道	Dao da Espada
+气之道	Dao do Qi
+丹之道	Dao da Alquimia
+器之道	Dao dos Artefatos
+体之道	Dao do Corpo
+阵之道	Dao das Formações
+炼器之道	Dao da Forja
+炼丹之道	Dao da Alquimia
+师兄你好。	Olá, irmão sênior.
+师姐你好。	Olá, irmã sênior.
+师弟你好。	Olá, irmão júnior.
+师妹你好。	Olá, irmã júnior.
+师兄你好	Olá, irmão sênior
+萼秋简	E Qiujian
+萼秋简：	E Qiujian:
+鲜于玉云	Xianyu Yuyun
+任意一条大道感悟达到融会贯通时，都能获得1点额外的悟道点。	Sempre que a compreensão de qualquer Grande Dao chegar a Compreensão Plena, você ganha 1 Ponto do Dao extra.
+天锦袍	Manto de Brocado Celeste
+鑫灵剑	Espada Espiritual do Metal
+木灵剑1	Espada Espiritual da Madeira 1
+木灵剑2	Espada Espiritual da Madeira 2
+木灵剑3	Espada Espiritual da Madeira 3
+木灵剑4	Espada Espiritual da Madeira 4
+木灵剑5	Espada Espiritual da Madeira 5
+无锋剑意	Intenção de Espada sem Fio
+普通的劈砍	Golpe comum
+胡乱爪击	Garras desordenadas
+破军剑道	Dao da Espada Rompe-Exércitos
+乱魂曲	Canção da Alma Caótica
+不灭尸傀	Marionete Cadavérica Imortal
+钝感	Insensibilidade
+天引	Atração Celeste
+邪灵	Espírito Maligno
+无生无死	Sem Vida, Sem Morte
+无法无相	Sem Forma, Sem Aparência
+无心无我	Sem Coração, Sem Eu
+尸傀核心·失魂	Núcleo da Marionete Cadavérica · Alma Perdida
+回合结束，获得【阴灵】*1。	No fim do turno, obtém 【Espírito Yin】*1.
+回合结束，获得【凝神】*10。	No fim do turno, obtém 【Concentração】*10.
+刚柔（隐）	Gang Rou (oculto)
+不灭尸傀（藏）	Marionete Cadavérica Imortal (oculto)
+压制	Supressão
+未命名	Sem nome
+受到的火系伤害提升20%	Dano de Fogo recebido +20%
+浑天环	Anel do Céu Envolvente
+双方获得【引力】*1	Ambos os lados obtêm 【Gravidade】*1
+双方获得【引力】*2	Ambos os lados obtêm 【Gravidade】*2
+主动：获得【剑气】*32	Ativo: obtém 【Energia de espada】*32
+主动：获得#c449491【<hy t=剑气 l=2_101_1_20 fhc=#e86524 ul=1>】#n*32	Ativo: obtém #c449491【<hy t=Energia de espada l=2_101_1_20 fhc=#e86524 ul=1>】#n*32
+造成（attack）点伤害，使用该技能不会解除#c449491【<hy t=隐匿 l=2_101_3_13 fhc=#e86524 ul=1>】#n	Causa （attack） de dano; usar esta habilidade não remove #c449491【<hy t=Ocultação l=2_101_3_13 fhc=#e86524 ul=1>】#n
+#c449491【<hy t=后继无力 l=2_101_5_66 fhc=#e86524 ul=1>】#n【力竭】造成（attack）点伤害，并消耗所有#c449491【<hy t=剑气 l=2_101_1_20 fhc=#e86524 ul=1>】#n与#c449491【<hy t=蓄势 l=2_101_1_27 fhc=#e86524 ul=1>】#n。每层#c449491【<hy t=剑气 l=2_101_1_20 fhc=#e86524 ul=1>】#n提升6点伤害，每层#c449491【<hy t=蓄势 l=2_101_1_27 fhc=#e86524 ul=1>】#n提升1点伤害。	#c449491【<hy t=Exaustão l=2_101_5_66 fhc=#e86524 ul=1>】#n【Esgotado】Causa （attack） de dano e consome todo #c449491【<hy t=Energia de espada l=2_101_1_20 fhc=#e86524 ul=1>】#n e #c449491【<hy t=Acumular força l=2_101_1_27 fhc=#e86524 ul=1>】#n. Cada camada de #c449491【<hy t=Energia de espada l=2_101_1_20 fhc=#e86524 ul=1>】#n aumenta o dano em 6, e cada camada de #c449491【<hy t=Acumular força l=2_101_1_27 fhc=#e86524 ul=1>】#n aumenta em 1.
+生命值+（n）	Vida +（n）
+修为+（n）	Cultivo +（n）
+戮	Matança
+你击败了你的对手。现在，他的储物袋归你了。	Você derrotou seu adversário. Agora o saco de armazenamento dele é seu.
+你战胜了这头妖兽。现在，它的妖丹归你了。	Você venceu esta fera. Agora o núcleo demoníaco dela é seu.
+在众人的几番围攻之下，剑魔的形体开始分崩离析...	Sob os ataques repetidos de todos, a forma do demônio da espada começa a se desfazer...
+上次遇到的剑灵让我觉得有些眼熟...调查一下此剑或许会有新的线索。	O espírito de espada que encontrei da última vez me pareceu familiar... investigar esta espada talvez traga novas pistas.
+人阶修炼类功法，也是最初阶的入门功法，身具灵根者修习此功法后，即可开始通过吐纳吸收天地灵气，此为炼气。	Técnica de cultivo de grau Humano, a mais básica para iniciantes. Quem tem raiz espiritual, ao praticá-la, passa a absorver a energia espiritual do céu e da terra pela respiração; isto é o Refinamento de Qi.
+草药，可用于炼制丹药	Erva medicinal; pode ser usada para refinar pílulas
+于剑魄竹成熟时脱落的灵叶，蕴含剑之道韵的叶子，极为稀有。	Folha espiritual que cai quando o Bambu da Alma da Espada amadurece; contém o ritmo do Dao da Espada. Raríssima.
+妖兽皮，可用于炼器，亲和最强、操控次之，但韧性为零。	Pele de fera; usada na forja. Afinidade mais alta, controle em seguida, mas resistência zero.
+妖兽特殊器官，可用于炼器，灵性最强、坚固次之，但操控为零。	Órgão especial de fera; usado na forja. Espiritualidade mais alta, solidez em seguida, mas controle zero.
+妖兽的牙，可用于炼器，操控最强、灵性次之，但亲和为零。	Dente de fera; usado na forja. Controle mais alto, espiritualidade em seguida, mas afinidade zero.
+水属性材料，可用于炼器。	Material de atributo Água; usado na forja.
+妖兽的鳞甲，可用于炼器，亲和最强、操控次之，但韧性为零。	Escamas de fera; usadas na forja. Afinidade mais alta, controle em seguida, mas resistência zero.
+御剑门剑冢-矿脉1	Túmulo de Espadas da Seita do Controle da Espada - Veio de Minério 1
+御剑门剑冢-矿脉2	Túmulo de Espadas da Seita do Controle da Espada - Veio de Minério 2
+白帝楼剑冢-剑池1	Túmulo de Espadas do Pavilhão do Imperador Branco - Lago de Espadas 1
+白帝楼剑冢-剑池2	Túmulo de Espadas do Pavilhão do Imperador Branco - Lago de Espadas 2
+白帝楼剑冢-剑池3	Túmulo de Espadas do Pavilhão do Imperador Branco - Lago de Espadas 3
+白帝楼剑冢-剑池4	Túmulo de Espadas do Pavilhão do Imperador Branco - Lago de Espadas 4
+白帝楼剑冢-剑池5	Túmulo de Espadas do Pavilhão do Imperador Branco - Lago de Espadas 5
+白帝楼剑冢-剑池6	Túmulo de Espadas do Pavilhão do Imperador Branco - Lago de Espadas 6
+白帝楼剑冢-剑池7	Túmulo de Espadas do Pavilhão do Imperador Branco - Lago de Espadas 7
+白帝楼剑冢-剑池8	Túmulo de Espadas do Pavilhão do Imperador Branco - Lago de Espadas 8
+龙门	Portão do Dragão
+生命值+40	Vida +40
+修为+180	Cultivo +180
+生命值+90	Vida +90
+生命值+170	Vida +170
+修为+553	Cultivo +553
+生命值+320	Vida +320
+修为+2000	Cultivo +2000
+生命值+600	Vida +600
+生命值+800	Vida +800
+生命值+2000	Vida +2000

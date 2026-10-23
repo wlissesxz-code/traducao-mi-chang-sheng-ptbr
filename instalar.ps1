@@ -77,6 +77,73 @@ try {
     Write-Host ''
     Write-Host ('Traducao instalada em: ' + $alvo) -ForegroundColor Green
 
+    # Imagens do Guia/Enciclopedia em portugues (os PNG originais sao guardados so na 1a vez).
+    $guias = Join-Path $PSScriptRoot 'guias\instalar-guias.ps1'
+    if (Test-Path $guias) {
+        Write-Host ''
+        Write-Host 'Instalando imagens do Guia...' -ForegroundColor Cyan
+        try { & powershell -NoProfile -ExecutionPolicy Bypass -File $guias } catch { Write-Host ('  Imagens do Guia: ' + $_) -ForegroundColor Yellow }
+    }
+
+    # Compila o plugin (src\MenusPTBR.cs) com as bibliotecas do seu jogo; sem isso vale a DLL antiga incluida.
+    $fonte = Join-Path $PSScriptRoot 'src\MenusPTBR.cs'
+    if (Test-Path $fonte) {
+        Write-Host ''
+        Write-Host 'Compilando o plugin...' -ForegroundColor Cyan
+        $managed = $null
+        foreach ($biblioteca in $bibliotecas) {
+            $common = Join-Path $biblioteca 'steamapps\common'
+            if (-not (Test-Path $common)) { continue }
+            foreach ($g in Get-ChildItem $common -Directory -ErrorAction SilentlyContinue) {
+                foreach ($dd in Get-ChildItem $g.FullName -Directory -Filter '*_Data' -ErrorAction SilentlyContinue) {
+                    $m = Join-Path $dd.FullName 'Managed'
+                    $eDoJogo = (Test-Path (Join-Path $g.FullName 'MCSSave')) -or (Test-Path (Join-Path $dd.FullName 'Res\NewUI\TuJian\Image\caiji_1.png'))
+                    if ($eDoJogo -and (Test-Path (Join-Path $m 'Assembly-CSharp.dll'))) { $managed = $m; break }
+                }
+                if ($managed) { break }
+            }
+            if ($managed) { break }
+        }
+        if (-not $managed) {
+            Write-Host 'Nao encontrei a pasta do jogo. Cole o caminho da pasta do jogo (a que contem a pasta *_Data) ou deixe vazio para pular a compilacao:' -ForegroundColor Yellow
+            $r = (Read-Host 'Caminho').Trim('"', ' ')
+            if ($r) { $dd = Get-ChildItem $r -Directory -Filter '*_Data' -ErrorAction SilentlyContinue | Select-Object -First 1; if ($dd) { $managed = Join-Path $dd.FullName 'Managed' } }
+        }
+        $csc = Join-Path $env:WINDIR 'Microsoft.NET\Framework64\v4.0.30319\csc.exe'
+        if (-not (Test-Path $csc)) { $csc = Join-Path $env:WINDIR 'Microsoft.NET\Framework\v4.0.30319\csc.exe' }
+        $compilou = $false
+        if ($managed -and (Test-Path $csc)) {
+            $bep = Join-Path $pastaMod 'BepInEx'
+            $refs = @('mscorlib','netstandard','System','System.Core','Unity.TextMeshPro','Assembly-CSharp','Assembly-CSharp-firstpass','DOTween','UniRx','Newtonsoft.Json') | ForEach-Object { Join-Path $managed ($_ + '.dll') }
+            $refs += Get-ChildItem $managed -Filter 'UnityEngine*.dll' | ForEach-Object { $_.FullName }
+            $refs += Join-Path $bep 'core\BepInEx.dll'
+            $refs += Join-Path $bep 'core\0Harmony.dll'
+            $refs = $refs | Where-Object { Test-Path $_ }
+            $tmp = Join-Path $env:TEMP 'MCS-PTBR-build'
+            New-Item -ItemType Directory -Path $tmp -Force | Out-Null
+            $dll = Join-Path $tmp 'MenusPTBR.dll'
+            $rsp = Join-Path $tmp 'build.rsp'
+            $linhas = @('/nologo','/target:library','/optimize+','/nostdlib+','/codepage:65001', ('/out:"' + $dll + '"'))
+            $linhas += $refs | ForEach-Object { '/r:"' + $_ + '"' }
+            $linhas += ('"' + $fonte + '"')
+            [IO.File]::WriteAllLines($rsp, $linhas, (New-Object Text.UTF8Encoding($false)))
+            $saida = & $csc /noconfig ('@' + $rsp) 2>&1
+            if ($LASTEXITCODE -eq 0 -and (Test-Path $dll)) {
+                $velha = Join-Path $alvo 'MenusPTBR.dll'
+                Copy-Item $dll $velha -Force
+                Copy-Item $fonte (Join-Path $alvo 'MenusPTBR.cs') -Force
+                $compilou = $true
+                Write-Host 'Plugin compilado e instalado.' -ForegroundColor Green
+            } else {
+                $saida | Out-File (Join-Path $PSScriptRoot 'build.log') -Encoding utf8
+                Write-Host 'A compilacao falhou. Veja build.log (ao lado do instalador) e abra uma issue anexando-o.' -ForegroundColor Red
+            }
+        }
+        if (-not $compilou) {
+            Write-Host 'Ficou a DLL antiga incluida: textos e texturas novos valem, mas as regras novas de codigo (ajustes-*.tsv, busca em portugues, layouts) so valem com a compilacao.' -ForegroundColor Yellow
+        }
+    }
+
     # Aviso sobre o mod em ingles.
     $pastaEn = Join-Path (Split-Path -Path $pastaMod -Parent) $modEn
     if (Test-Path $pastaEn) {
