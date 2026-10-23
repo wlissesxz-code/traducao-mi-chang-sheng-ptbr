@@ -4,7 +4,7 @@
 
 Tradução não oficial para português do Brasil do jogo **觅长生**, feita como plugin BepInEx. Tudo roda localmente, sem serviços externos.
 
-**Versão atual: 1.5** — veja o [CHANGELOG](CHANGELOG.md).
+**Versão atual: 1.0** — veja o [CHANGELOG](CHANGELOG.md).
 
 ## O que está traduzido
 - Interface, menus, botões, tooltips e painéis (incluindo imagens com texto, repintadas em português).
